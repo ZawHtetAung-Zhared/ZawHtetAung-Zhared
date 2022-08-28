@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZawHtetAung-Zhared
 - 👀 I’m interested in Frontend Development, Drawing and Video games.
-- 🌱 I’m currently learning Reactjs, Nodejs.
+- 🌱 I’m currently learning MERN stack.
 - 📫 How to reach me me@zawhtetaung.com
 
 <!---
